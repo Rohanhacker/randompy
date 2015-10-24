@@ -1,0 +1,5 @@
+{
+  "a": "rohan", 
+  "r": 4, 
+  "bool": true
+}
